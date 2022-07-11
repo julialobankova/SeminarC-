@@ -11,11 +11,11 @@ if (a > b)
 {
     int max = a;
     int min = b;
-    Console.WriteLine($"{max} больше  {min}");
+    Console.WriteLine($"max = {max}  min = {min}");
 }
 else 
 {
     int max = b;
     int min = a;
-    Console.WriteLine($"{min} меньше {max}");
+    Console.WriteLine($"min = {min} max = {max}");
 }
