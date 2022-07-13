@@ -4,7 +4,7 @@
 
 Console.WriteLine("Введите число и я покажу все четные числа до вашего числа: ");
 int a = int.Parse(Console.ReadLine());
-int i = 1;
+int i = 0;
 while (i <= a)
 {
     if (i % 2 == 0)
