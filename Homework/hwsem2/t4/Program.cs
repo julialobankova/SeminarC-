@@ -43,15 +43,3 @@ WEEK(a);
 
 
 
-/*if (a <= 5)
-{ 
-   Console.WriteLine("Увы это будни");
-}
-else if (5 >= a <= 7 )
-{
-    Console.WriteLine("Выходной, Ура");
-}
-else
-{
-    Console.WriteLine("Ошибка ввода");
-}*/
